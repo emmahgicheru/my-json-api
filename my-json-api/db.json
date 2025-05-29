@@ -59,6 +59,76 @@
       "name": "Return to Nairobi and depart",
       "time": "07:00",
       "description": "Day 10 - Nairobi"
-    }
+    },
+    {
+    "name": "Hike Mt. Longonot",
+    "time": "07:00",
+    "description": "Enjoy the scenic crater rim hike.",
+    "day": 2,
+    "location": "Naivasha"
+  },
+  {
+    "name": "Relax at Lake Elementaita",
+    "time": "13:00",
+    "description": "Birdwatching and lakeside picnic.",
+    "day": 2,
+    "location": "Naivasha"
+  },
+  {
+    "name": "Dine at Carnivore Restaurant",
+    "time": "19:00",
+    "description": "Try Kenya's famous nyama choma.",
+    "day": 1,
+    "location": "Nairobi"
+  },
+  {
+    "name": "Beach BBQ Dinner",
+    "time": "19:30",
+    "description": "Fresh seafood under the stars.",
+    "day": 8,
+    "location": "Diani"
+  },
+  {
+    "name": "Nature walk in Arabuko Sokoke Forest",
+    "time": "08:00",
+    "description": "Guided walk in Kenya's coastal forest.",
+    "day": 9,
+    "location": "Watamu"
+  },
+  {
+    "name": "Glass Bottom Boat Tour",
+    "time": "10:30",
+    "description": "Coral reef viewing from a boat.",
+    "day": 8,
+    "location": "Diani"
+  },
+  {
+    "name": "Explore Nairobi Railway Museum",
+    "time": "11:00",
+    "description": "Historic locomotives and rail heritage.",
+    "day": 1,
+    "location": "Nairobi"
+  },
+  {
+    "name": "Zip lining at Kereita Forest",
+    "time": "14:00",
+    "description": "Adrenaline-packed forest adventure.",
+    "day": 3,
+    "location": "Aberdare"
+  },
+  {
+    "name": "Camel Ride on Malindi Beach",
+    "time": "09:30",
+    "description": "A fun morning ride on the beach.",
+    "day": 7,
+    "location": "Malindi"
+  },
+  {
+    "name": "Sunset Cruise at Mida Creek",
+    "time": "17:00",
+    "description": "Beautiful sunset on a dhow boat.",
+    "day": 9,
+    "location": "Watamu"
+  }
   ]
 }
