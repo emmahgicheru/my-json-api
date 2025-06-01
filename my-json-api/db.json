@@ -1,244 +1,747 @@
-[
-  {
-    "day": 1,
-    "location": "Nairobi",
-    "activities": [
-      {
-        "id": 1,
-        "trip_id": "KEN-TZ-001",
-        "name": "Arrival and Hotel Check-in",
-        "time": "08:30",
-        "description": "Arrive in Nairobi and check in to your hotel."
-      },
-      {
-        "id": 2,
-        "trip_id": "KEN-TZ-001",
-        "name": "Visit Giraffe Centre and Elephant Orphanage",
-        "time": "11:00",
-        "description": "Interact with giraffes and baby elephants."
-      },
-      {
-        "id": 3,
-        "trip_id": "KEN-TZ-001",
-        "name": "Dinner at Carnivore Restaurant",
-        "time": "19:00",
-        "description": "Enjoy Kenya's famous nyama choma."
-      }
-    ]
-  },
-  {
-    "day": 2,
-    "location": "Naivasha",
-    "activities": [
-      {
-        "id": 4,
-        "trip_id": "KEN-TZ-001",
-        "name": "Hike Mt. Longonot",
-        "time": "07:00",
-        "description": "Enjoy the scenic crater rim hike."
-      },
-      {
-        "id": 5,
-        "trip_id": "KEN-TZ-001",
-        "name": "Boat ride on Lake Naivasha & Walking Safari",
-        "time": "10:00",
-        "description": "Wildlife experience on Crescent Island."
-      },
-      {
-        "id": 6,
-        "trip_id": "KEN-TZ-001",
-        "name": "Picnic at Hell’s Gate National Park",
-        "time": "12:30",
-        "description": "Explore gorges and geothermal features."
-      },
-      {
-        "id": 7,
-        "trip_id": "KEN-TZ-001",
-        "name": "Horseback Safari at Crescent Island",
-        "time": "15:00",
-        "description": "Guided wildlife ride along the lake shore."
-      }
-    ]
-  },
-  {
-    "day": 3,
-    "location": "Maasai Mara",
-    "activities": [
-      {
-        "id": 8,
-        "trip_id": "KEN-TZ-001",
-        "name": "Game Drive and Big Five Safari",
-        "time": "07:00",
-        "description": "Explore Maasai Mara in open-roof vehicles."
-      },
-      {
-        "id": 9,
-        "trip_id": "KEN-TZ-001",
-        "name": "Visit a Maasai Village",
-        "time": "14:00",
-        "description": "Learn about Maasai culture and traditions."
-      },
-      {
-        "id": 10,
-        "trip_id": "KEN-TZ-001",
-        "name": "Evening Cultural Bonfire",
-        "time": "20:00",
-        "description": "Traditional dances, stories, and BBQ dinner."
-      }
-    ]
-  },
-  {
-    "day": 4,
-    "location": "Masai Mara - Serengeti Transfer",
-    "activities": [
-      {
-        "id": 11,
-        "trip_id": "KEN-TZ-001",
-        "name": "Balloon Safari & Breakfast in the Wild",
-        "time": "06:00",
-        "description": "Sunrise aerial wildlife view and champagne breakfast."
-      },
-      {
-        "id": 12,
-        "trip_id": "KEN-TZ-001",
-        "name": "Road Transfer to Serengeti",
-        "time": "10:00",
-        "description": "Cross the Isebania border into Tanzania."
-      },
-      {
-        "id": 13,
-        "trip_id": "KEN-TZ-001",
-        "name": "Evening Game Drive in Serengeti",
-        "time": "17:00",
-        "description": "Spot wildlife en route to your lodge."
-      }
-    ]
-  },
-  {
-    "day": 5,
-    "location": "Serengeti National Park",
-    "activities": [
-      {
-        "id": 14,
-        "trip_id": "KEN-TZ-001",
-        "name": "Full-day Game Drive",
-        "time": "06:30",
-        "description": "Track cheetahs, lions, and wildebeest."
-      },
-      {
-        "id": 15,
-        "trip_id": "KEN-TZ-001",
-        "name": "Visit Hippo Pool and Lunch Picnic",
-        "time": "13:00",
-        "description": "Watch hippos up close in their natural habitat."
-      }
-    ]
-  },
-  {
-    "day": 6,
-    "location": "Ngorongoro Crater",
-    "activities": [
-      {
-        "id": 16,
-        "trip_id": "KEN-TZ-001",
-        "name": "Descend into Ngorongoro Crater",
-        "time": "08:00",
-        "description": "Crater floor safari in a unique ecosystem."
-      },
-      {
-        "id": 17,
-        "trip_id": "KEN-TZ-001",
-        "name": "Visit a Local Coffee Farm (Optional)",
-        "time": "16:00",
-        "description": "Learn how Tanzanian coffee is grown and roasted."
-      }
-    ]
-  },
-  {
-    "day": 7,
-    "location": "Zanzibar (Stone Town)",
-    "activities": [
-      {
-        "id": 18,
-        "trip_id": "KEN-TZ-001",
-        "name": "Fly to Zanzibar and Check-in",
-        "time": "10:00",
-        "description": "Coastal flight to paradise."
-      },
-      {
-        "id": 19,
-        "trip_id": "KEN-TZ-001",
-        "name": "Explore Stone Town & Slave Market",
-        "time": "14:00",
-        "description": "Dive into Zanzibar’s culture and history."
-      },
-      {
-        "id": 20,
-        "trip_id": "KEN-TZ-001",
-        "name": "Sunset Dinner by the Beach",
-        "time": "19:00",
-        "description": "Enjoy local seafood under the stars."
-      }
-    ]
-  },
-  {
-    "day": 8,
-    "location": "Zanzibar (Nungwi or Kendwa)",
-    "activities": [
-      {
-        "id": 21,
-        "trip_id": "KEN-TZ-001",
-        "name": "Snorkeling at Mnemba Atoll",
-        "time": "09:00",
-        "description": "Coral reef adventure and dolphin spotting."
-      },
-      {
-        "id": 22,
-        "trip_id": "KEN-TZ-001",
-        "name": "Dhow Sunset Cruise",
-        "time": "17:30",
-        "description": "Traditional sailboat ride along the coast."
-      }
-    ]
-  },
-  {
-    "day": 9,
-    "location": "Zanzibar",
-    "activities": [
-      {
-        "id": 23,
-        "trip_id": "KEN-TZ-001",
-        "name": "Beach Relaxation & Spa Day",
-        "time": "10:00",
-        "description": "Enjoy a full day of rest with optional massage."
-      },
-      {
-        "id": 24,
-        "trip_id": "KEN-TZ-001",
-        "name": "Cooking Class with a Local Chef",
-        "time": "15:00",
-        "description": "Learn to cook Swahili cuisine."
-      }
-    ]
-  },
-  {
-    "day": 10,
-    "location": "Zanzibar → Nairobi (Departure)",
-    "activities": [
-      {
-        "id": 25,
-        "trip_id": "KEN-TZ-001",
-        "name": "Flight to Nairobi",
-        "time": "09:00",
-        "description": "Board return flight to Nairobi."
-      },
-      {
-        "id": 26,
-        "trip_id": "KEN-TZ-001",
-        "name": "Wrap-up Dinner & Feedback Session",
-        "time": "18:00",
-        "description": "Celebrate the journey and share experiences."
-      }
-    ]
+{
+  "trip_id": "MAJESTIC-EASTAFRICA",
+  "start_date": "2025-07-01",
+  "end_date": "2025-07-30",
+  "total_days": 30,
+  "itinerary": [
+    {
+      "day": 1,
+      "date": "2025-07-01",
+      "country": "Kenya",
+      "location": "Nairobi",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2025-07-02",
+      "country": "Kenya",
+      "location": "Maasai Mara",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2025-07-03",
+      "country": "Kenya",
+      "location": "Naivasha",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2025-07-04",
+      "country": "Kenya",
+      "location": "Mount Kenya",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2025-07-05",
+      "country": "Kenya",
+      "location": "Diani Beach",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2025-07-06",
+      "country": "Tanzania",
+      "location": "Arusha",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2025-07-07",
+      "country": "Tanzania",
+      "location": "Serengeti",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2025-07-08",
+      "country": "Tanzania",
+      "location": "Ngorongoro Crater",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2025-07-09",
+      "country": "Tanzania",
+      "location": "Zanzibar",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2025-07-10",
+      "country": "Uganda",
+      "location": "Kampala",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "date": "2025-07-11",
+      "country": "Uganda",
+      "location": "Jinja",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "date": "2025-07-12",
+      "country": "Uganda",
+      "location": "Murchison Falls",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "date": "2025-07-13",
+      "country": "Uganda",
+      "location": "Queen Elizabeth NP",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "date": "2025-07-14",
+      "country": "Rwanda",
+      "location": "Volcanoes National Park",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "date": "2025-07-15",
+      "country": "Rwanda",
+      "location": "Lake Kivu",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "date": "2025-07-16",
+      "country": "Rwanda",
+      "location": "Nyungwe Forest",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "date": "2025-07-17",
+      "country": "Tanzania",
+      "location": "Lake Manyara",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "date": "2025-07-18",
+      "country": "Kenya",
+      "location": "Samburu",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "date": "2025-07-19",
+      "country": "Kenya",
+      "location": "Lamu",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "date": "2025-07-20",
+      "country": "Tanzania",
+      "location": "Tarangire",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "date": "2025-07-21",
+      "country": "Uganda",
+      "location": "Lake Bunyonyi",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "date": "2025-07-22",
+      "country": "Rwanda",
+      "location": "Akagera",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "date": "2025-07-23",
+      "country": "Uganda",
+      "location": "Entebbe",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "date": "2025-07-24",
+      "country": "Kenya",
+      "location": "Nakuru",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "date": "2025-07-25",
+      "country": "Kenya",
+      "location": "Eldoret",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "date": "2025-07-26",
+      "country": "Tanzania",
+      "location": "Bagamoyo",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "date": "2025-07-27",
+      "country": "Rwanda",
+      "location": "Gisenyi",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "date": "2025-07-28",
+      "country": "Uganda",
+      "location": "Kibale",
+      "activities": [
+        {
+          "time": "08:00",
+          "description": "Guided city tour"
+        },
+        {
+          "time": "11:00",
+          "description": "Local market visit"
+        },
+        {
+          "time": "14:00",
+          "description": "Cultural museum tour"
+        },
+        {
+          "time": "17:00",
+          "description": "Sunset boat ride"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "date": "2025-07-29",
+      "country": "Uganda",
+      "location": "Bwindi",
+      "activities": [
+        {
+          "time": "07:00",
+          "description": "Mountain gorilla trekking"
+        },
+        {
+          "time": "12:00",
+          "description": "Bush lunch"
+        },
+        {
+          "time": "15:00",
+          "description": "Nature walk with local guide"
+        },
+        {
+          "time": "18:00",
+          "description": "Cultural dance performance"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "date": "2025-07-30",
+      "country": "Rwanda",
+      "location": "Kigali",
+      "activities": [
+        {
+          "time": "09:00",
+          "description": "Kigali Genocide Memorial"
+        },
+        {
+          "time": "12:00",
+          "description": "Lunch at Heaven Restaurant"
+        },
+        {
+          "time": "14:00",
+          "description": "Art gallery visit"
+        },
+        {
+          "time": "17:00",
+          "description": "Craft market shopping"
+        }
+      ]
+    }
+  ],
+  "highlights": [
+    "Gorilla trekking in Bwindi",
+    "Hot air balloon safari in Serengeti",
+    "Cultural experiences with Maasai warriors",
+    "Relaxing on the beaches of Zanzibar"
+  ],
+  "travel_tips": [
+    "Book gorilla trekking permits in advance",
+    "Carry cash for local markets",
+    "Respect local customs and traditions"
+  ],
+  "contact_info": {
+    "emergency_number": "+254 700 000 000",
+    "local_guide": {
+      "name": "John Doe",
+      "phone": "+254 700 111 111",
+      "email": "john.doe@example.com"
+    }
   }
-]
+}
