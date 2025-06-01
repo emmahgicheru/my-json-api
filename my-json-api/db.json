@@ -726,10 +726,11 @@
     }
   ],
   "highlights": [
-    "Gorilla trekking in Bwindi",
-    "Hot air balloon safari in Serengeti",
-    "Cultural experiences with Maasai warriors",
-    "Relaxing on the beaches of Zanzibar"
+    { "description": "Gorilla trekking in Bwindi" },
+    { "description": "Hot air balloon safari in Serengeti" },
+    { "description": "Cultural experiences with Maasai warriors" },
+    { "description": "Relaxing on the beaches of Zanzibar" },
+    { "description": "Relaxing on the beaches of Zanzibar" }
   ],
   "travel_tips": [
     "Book gorilla trekking permits in advance",
