@@ -1,244 +1,244 @@
-{
-  "itinerary": [
-    {
-      "id": 1,
-      "name": "Visit Nairobi National Park, Giraffe Centre, and Karen Blixen Museum",
-      "time": "09:00",
-      "description": "Explore key attractions in Nairobi.",
-      "day": 1,
-      "location": "Nairobi"
-    },
-    {
-      "id": 2,
-      "name": "Boat ride on Lake Naivasha and a walking safari on Crescent Island",
-      "time": "10:00",
-      "description": "Wildlife experience and lake adventure.",
-      "day": 2,
-      "location": "Naivasha"
-    },
-    {
-      "id": 3,
-      "name": "Game drive and cultural visit to Maasai village",
-      "time": "08:00",
-      "description": "Experience the Maasai culture and wildlife.",
-      "day": 3,
-      "location": "Maasai Mara"
-    },
-    {
-      "id": 4,
-      "name": "Morning balloon safari and wildlife photography",
-      "time": "06:00",
-      "description": "Aerial wildlife viewing and scenic sunrise shots.",
-      "day": 4,
-      "location": "Maasai Mara"
-    },
-    {
-      "id": 5,
-      "name": "Shopping at Maasai Market and prepare for coastal trip",
-      "time": "11:00",
-      "description": "Buy souvenirs and plan your coastal journey.",
-      "day": 5,
-      "location": "Nairobi"
-    },
-    {
-      "id": 6,
-      "name": "Arrive and tour Fort Jesus, Old Town, and Mombasa Tusks",
-      "time": "12:00",
-      "description": "Dive into Mombasa's rich Swahili history.",
-      "day": 6,
-      "location": "Mombasa"
-    },
-    {
-      "id": 7,
-      "name": "Spend the day at Haller Park and visit Bombolulu Workshops",
-      "time": "09:30",
-      "description": "Nature and community-based tourism.",
-      "day": 7,
-      "location": "Mombasa"
-    },
-    {
-      "id": 8,
-      "name": "Beach relaxation, snorkeling, and camel ride on the beach",
-      "time": "10:00",
-      "description": "Relax on white sands and enjoy water sports.",
-      "day": 8,
-      "location": "Diani"
-    },
-    {
-      "id": 9,
-      "name": "Visit Colobus Conservation Centre and explore Shimba Hills",
-      "time": "08:30",
-      "description": "Conservation education and forest exploration.",
-      "day": 9,
-      "location": "Diani"
-    },
-    {
-      "id": 10,
-      "name": "Return to Nairobi and depart",
-      "time": "07:00",
-      "description": "End of your Kenyan adventure.",
-      "day": 10,
-      "location": "Nairobi"
-    },
-    {
-      "id": 11,
-      "name": "Hike Mt. Longonot",
-      "time": "07:00",
-      "description": "Enjoy the scenic crater rim hike.",
-      "day": 2,
-      "location": "Naivasha"
-    },
-    {
-      "id": 12,
-      "name": "Relax at Lake Elementaita",
-      "time": "13:00",
-      "description": "Birdwatching and lakeside picnic.",
-      "day": 2,
-      "location": "Naivasha"
-    },
-    {
-      "id": 13,
-      "name": "Dine at Carnivore Restaurant",
-      "time": "19:00",
-      "description": "Try Kenya's famous nyama choma.",
-      "day": 1,
-      "location": "Nairobi"
-    },
-    {
-      "id": 14,
-      "name": "Beach BBQ Dinner",
-      "time": "19:30",
-      "description": "Fresh seafood under the stars.",
-      "day": 8,
-      "location": "Diani"
-    },
-    {
-      "id": 15,
-      "name": "Nature walk in Arabuko Sokoke Forest",
-      "time": "08:00",
-      "description": "Guided walk in Kenya's coastal forest.",
-      "day": 9,
-      "location": "Watamu"
-    },
-    {
-      "id": 16,
-      "name": "Glass Bottom Boat Tour",
-      "time": "10:30",
-      "description": "Coral reef viewing from a boat.",
-      "day": 8,
-      "location": "Diani"
-    },
-    {
-      "id": 17,
-      "name": "Explore Nairobi Railway Museum",
-      "time": "11:00",
-      "description": "Historic locomotives and rail heritage.",
-      "day": 1,
-      "location": "Nairobi"
-    },
-    {
-      "id": 18,
-      "name": "Zip lining at Kereita Forest",
-      "time": "14:00",
-      "description": "Adrenaline-packed forest adventure.",
-      "day": 3,
-      "location": "Aberdare"
-    },
-    {
-      "id": 19,
-      "name": "Camel Ride on Malindi Beach",
-      "time": "09:30",
-      "description": "A fun morning ride on the beach.",
-      "day": 7,
-      "location": "Malindi"
-    },
-    {
-      "id": 20,
-      "name": "Sunset Cruise at Mida Creek",
-      "time": "17:00",
-      "description": "Beautiful sunset on a dhow boat.",
-      "day": 9,
-      "location": "Watamu"
-    },
-    {
-    "id": 21,
-    "name": "Visit Nairobi National Museum and Snake Park",
-    "time": "10:00",
-    "description": "Learn about Kenya’s history and see native reptiles.",
+[
+  {
     "day": 1,
-    "location": "Nairobi"
+    "location": "Nairobi",
+    "activities": [
+      {
+        "id": 1,
+        "trip_id": "KEN-TZ-001",
+        "name": "Arrival and Hotel Check-in",
+        "time": "08:30",
+        "description": "Arrive in Nairobi and check in to your hotel."
+      },
+      {
+        "id": 2,
+        "trip_id": "KEN-TZ-001",
+        "name": "Visit Giraffe Centre and Elephant Orphanage",
+        "time": "11:00",
+        "description": "Interact with giraffes and baby elephants."
+      },
+      {
+        "id": 3,
+        "trip_id": "KEN-TZ-001",
+        "name": "Dinner at Carnivore Restaurant",
+        "time": "19:00",
+        "description": "Enjoy Kenya's famous nyama choma."
+      }
+    ]
   },
   {
-    "id": 22,
-    "name": "Cave exploration and picnic at Hell’s Gate National Park",
-    "time": "12:00",
-    "description": "Adventure through scenic gorges and geothermal features.",
     "day": 2,
-    "location": "Naivasha"
+    "location": "Naivasha",
+    "activities": [
+      {
+        "id": 4,
+        "trip_id": "KEN-TZ-001",
+        "name": "Hike Mt. Longonot",
+        "time": "07:00",
+        "description": "Enjoy the scenic crater rim hike."
+      },
+      {
+        "id": 5,
+        "trip_id": "KEN-TZ-001",
+        "name": "Boat ride on Lake Naivasha & Walking Safari",
+        "time": "10:00",
+        "description": "Wildlife experience on Crescent Island."
+      },
+      {
+        "id": 6,
+        "trip_id": "KEN-TZ-001",
+        "name": "Picnic at Hell’s Gate National Park",
+        "time": "12:30",
+        "description": "Explore gorges and geothermal features."
+      },
+      {
+        "id": 7,
+        "trip_id": "KEN-TZ-001",
+        "name": "Horseback Safari at Crescent Island",
+        "time": "15:00",
+        "description": "Guided wildlife ride along the lake shore."
+      }
+    ]
   },
   {
-    "id": 23,
-    "name": "Horseback safari at Crescent Island",
-    "time": "15:00",
-    "description": "A guided wildlife ride along the lake shore.",
-    "day": 2,
-    "location": "Naivasha"
-  },
-  {
-    "id": 24,
-    "name": "Cultural night with traditional dances at Maasai Mara camp",
-    "time": "20:00",
-    "description": "Enjoy Maasai songs, stories, and bonfire dinner.",
     "day": 3,
-    "location": "Maasai Mara"
+    "location": "Maasai Mara",
+    "activities": [
+      {
+        "id": 8,
+        "trip_id": "KEN-TZ-001",
+        "name": "Game Drive and Big Five Safari",
+        "time": "07:00",
+        "description": "Explore Maasai Mara in open-roof vehicles."
+      },
+      {
+        "id": 9,
+        "trip_id": "KEN-TZ-001",
+        "name": "Visit a Maasai Village",
+        "time": "14:00",
+        "description": "Learn about Maasai culture and traditions."
+      },
+      {
+        "id": 10,
+        "trip_id": "KEN-TZ-001",
+        "name": "Evening Cultural Bonfire",
+        "time": "20:00",
+        "description": "Traditional dances, stories, and BBQ dinner."
+      }
+    ]
   },
   {
-    "id": 25,
-    "name": "Visit Nairobi Railway Art District",
-    "time": "16:00",
-    "description": "Explore murals, local art, and handmade crafts.",
+    "day": 4,
+    "location": "Masai Mara - Serengeti Transfer",
+    "activities": [
+      {
+        "id": 11,
+        "trip_id": "KEN-TZ-001",
+        "name": "Balloon Safari & Breakfast in the Wild",
+        "time": "06:00",
+        "description": "Sunrise aerial wildlife view and champagne breakfast."
+      },
+      {
+        "id": 12,
+        "trip_id": "KEN-TZ-001",
+        "name": "Road Transfer to Serengeti",
+        "time": "10:00",
+        "description": "Cross the Isebania border into Tanzania."
+      },
+      {
+        "id": 13,
+        "trip_id": "KEN-TZ-001",
+        "name": "Evening Game Drive in Serengeti",
+        "time": "17:00",
+        "description": "Spot wildlife en route to your lodge."
+      }
+    ]
+  },
+  {
     "day": 5,
-    "location": "Nairobi"
+    "location": "Serengeti National Park",
+    "activities": [
+      {
+        "id": 14,
+        "trip_id": "KEN-TZ-001",
+        "name": "Full-day Game Drive",
+        "time": "06:30",
+        "description": "Track cheetahs, lions, and wildebeest."
+      },
+      {
+        "id": 15,
+        "trip_id": "KEN-TZ-001",
+        "name": "Visit Hippo Pool and Lunch Picnic",
+        "time": "13:00",
+        "description": "Watch hippos up close in their natural habitat."
+      }
+    ]
   },
   {
-    "id": 26,
-    "name": "Deep sea fishing in Mombasa",
-    "time": "07:30",
-    "description": "Catch marlins and enjoy the open sea.",
     "day": 6,
-    "location": "Mombasa"
+    "location": "Ngorongoro Crater",
+    "activities": [
+      {
+        "id": 16,
+        "trip_id": "KEN-TZ-001",
+        "name": "Descend into Ngorongoro Crater",
+        "time": "08:00",
+        "description": "Crater floor safari in a unique ecosystem."
+      },
+      {
+        "id": 17,
+        "trip_id": "KEN-TZ-001",
+        "name": "Visit a Local Coffee Farm (Optional)",
+        "time": "16:00",
+        "description": "Learn how Tanzanian coffee is grown and roasted."
+      }
+    ]
   },
   {
-    "id": 27,
-    "name": "Scuba diving at Kisite Marine Park",
-    "time": "08:00",
-    "description": "Underwater adventure exploring coral reefs.",
-    "day": 8,
-    "location": "Diani"
-  },
-  {
-    "id": 28,
-    "name": "Yoga and wellness session by the beach",
-    "time": "06:30",
-    "description": "Relaxing start to your day in nature.",
     "day": 7,
-    "location": "Mombasa"
+    "location": "Zanzibar (Stone Town)",
+    "activities": [
+      {
+        "id": 18,
+        "trip_id": "KEN-TZ-001",
+        "name": "Fly to Zanzibar and Check-in",
+        "time": "10:00",
+        "description": "Coastal flight to paradise."
+      },
+      {
+        "id": 19,
+        "trip_id": "KEN-TZ-001",
+        "name": "Explore Stone Town & Slave Market",
+        "time": "14:00",
+        "description": "Dive into Zanzibar’s culture and history."
+      },
+      {
+        "id": 20,
+        "trip_id": "KEN-TZ-001",
+        "name": "Sunset Dinner by the Beach",
+        "time": "19:00",
+        "description": "Enjoy local seafood under the stars."
+      }
+    ]
   },
   {
-    "id": 29,
-    "name": "Quad biking through sand dunes",
-    "time": "17:30",
-    "description": "Evening ride on coastal dunes.",
+    "day": 8,
+    "location": "Zanzibar (Nungwi or Kendwa)",
+    "activities": [
+      {
+        "id": 21,
+        "trip_id": "KEN-TZ-001",
+        "name": "Snorkeling at Mnemba Atoll",
+        "time": "09:00",
+        "description": "Coral reef adventure and dolphin spotting."
+      },
+      {
+        "id": 22,
+        "trip_id": "KEN-TZ-001",
+        "name": "Dhow Sunset Cruise",
+        "time": "17:30",
+        "description": "Traditional sailboat ride along the coast."
+      }
+    ]
+  },
+  {
     "day": 9,
-    "location": "Malindi"
+    "location": "Zanzibar",
+    "activities": [
+      {
+        "id": 23,
+        "trip_id": "KEN-TZ-001",
+        "name": "Beach Relaxation & Spa Day",
+        "time": "10:00",
+        "description": "Enjoy a full day of rest with optional massage."
+      },
+      {
+        "id": 24,
+        "trip_id": "KEN-TZ-001",
+        "name": "Cooking Class with a Local Chef",
+        "time": "15:00",
+        "description": "Learn to cook Swahili cuisine."
+      }
+    ]
   },
   {
-    "id": 30,
-    "name": "Wrap-up dinner and storytelling with local guide",
-    "time": "19:00",
-    "description": "Share highlights and reflect on the journey.",
     "day": 10,
-    "location": "Nairobi"
+    "location": "Zanzibar → Nairobi (Departure)",
+    "activities": [
+      {
+        "id": 25,
+        "trip_id": "KEN-TZ-001",
+        "name": "Flight to Nairobi",
+        "time": "09:00",
+        "description": "Board return flight to Nairobi."
+      },
+      {
+        "id": 26,
+        "trip_id": "KEN-TZ-001",
+        "name": "Wrap-up Dinner & Feedback Session",
+        "time": "18:00",
+        "description": "Celebrate the journey and share experiences."
+      }
+    ]
   }
-  ]
-}
+]
