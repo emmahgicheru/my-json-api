@@ -53,9 +53,9 @@
     },
     {
       "day": 2,
-      "name": "Sunset Boat Ride",
+      "name": "Evening Bush Dinner Experience",
       "time": "17:00",
-      "description": "Enjoy a boat ride while watching the sunset.",
+      "description": "Enjoy dinner while watching the sunset.",
       "location": "Maasai Mara, Kenya"
     },
     {
@@ -109,9 +109,9 @@
     },
     {
       "day": 4,
-      "name": "Sunset Boat Ride",
+      "name": "Campfire Dinner & Storytelling",
       "time": "17:00",
-      "description": "Unwind with a sunset boat ride nearby.",
+      "description": "Enjoy a cozy evening with local tales and traditional music around a fire.",
       "location": "Mount Kenya, Kenya"
     },
 
@@ -173,9 +173,9 @@
     },
     {
       "day": 6,
-      "name": "Sunset Boat Ride",
+      "name": "A scenic viewpoint, not a trek",
       "time": "17:00",
-      "description": "Relax on a boat ride at sunset.",
+      "description": "A scenic gateway to safari destinations.",
       "location": "Arusha, Tanzania"
     },
     {
@@ -201,9 +201,9 @@
     },
     {
       "day": 7,
-      "name": "Sunset Boat Ride",
+      "name": "Sundowner in the Savannah",
       "time": "17:00",
-      "description": "End the day with a boat ride at sunset.",
+      "description": "End the day with a sundowner.",
       "location": "Serengeti, Tanzania"
     },
     {
@@ -229,9 +229,9 @@
     },
     {
       "day": 8,
-      "name": "Sunset Boat Ride",
+      "name": "Crater Rim Walk at Sunset",
       "time": "17:00",
-      "description": "Relax on a sunset boat ride.",
+      "description": "Relax as you take a walk while viewing the sunset.",
       "location": "Ngorongoro Crater, Tanzania"
     },
     {
@@ -285,9 +285,9 @@
     },
     {
       "day": 10,
-      "name": "Sunset Boat Ride",
+      "name": "Sunset at Lake Victoria Shores with Dinner",
       "time": "17:00",
-      "description": "Relax on a sunset boat cruise.",
+      "description": "Relax at the shores of Lake Victoria.",
       "location": "Kampala, Uganda"
     },
     {
