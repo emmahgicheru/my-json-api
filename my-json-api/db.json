@@ -729,13 +729,13 @@
     { "description": "Gorilla trekking in Bwindi" },
     { "description": "Hot air balloon safari in Serengeti" },
     { "description": "Cultural experiences with Maasai warriors" },
-    { "description": "Relaxing on the beaches of Zanzibar" },
     { "description": "Relaxing on the beaches of Zanzibar" }
+    
   ],
   "travel_tips": [
-    "Book gorilla trekking permits in advance",
-    "Carry cash for local markets",
-    "Respect local customs and traditions"
+    { "tip": "Book gorilla trekking permits in advance" },
+    { "tip": "Carry insect repellent" },
+    { "tip": "Respect local customs and traditions" }
   ],
   "contact_info": {
     "emergency_number": "+254 700 000 000",
